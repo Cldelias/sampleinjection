@@ -7,4 +7,5 @@ pod 'SwiftyJSON'
 pod 'SWXMLHash', '~> 4.0.0'
 pod 'RxSwift', '3.0'
 pod 'RxCocoa', '3.0'
+pod 'SQLite.swift', '~> 0.12.0'
 end
